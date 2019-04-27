@@ -1,5 +1,5 @@
 # PortfolioOptimizationCaseStudy
 
-A case study for Computational Optimization course implementing a simple Markowitz model. 
+A case study for computational optimization course implementing a simple Markowitz model. 
 
 
